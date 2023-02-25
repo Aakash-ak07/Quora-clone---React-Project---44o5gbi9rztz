@@ -58,10 +58,7 @@ function Login() {
         </div>
         <div className="login__desc">
           <p>A Place to Share knowledge and better understand the world</p>
-//           <p style={{ color: "royalblue", fontSize: "25px" }}>
-//             HandCrafted with ❤️ by{" "}
-//           </p>
-//           <h3>Aakash Manihar</h3>
+    
         </div>
         <div className="login__auth">
           <div className="login__authOptions">
